@@ -1,4 +1,3 @@
 # Github-Website-Clone
 
-<img src=“LandingImage.png />
-
+<img src=“./Images/LandingImage.png />
